@@ -26,4 +26,4 @@ LemonSignal = { wally = "data-oriented-house/lemonsignal", version = "^1.10.0" }
 Janitor = { wally = "howmanysmall/janitor", version = "^1.18.3" }
 Moonlite = { wally = "maximumadhd/moonlite", version = "^0.9.0" }
 Spring = { wally = "sleitnick/spring", version = "^1.0.0" }
-Promise = { wally = "evaera/promise", version = "^4.0.0" }
+Promise = { wally = "howmanysmall/typed-promise", version = "^4.0.6" }
